@@ -1,4 +1,4 @@
-# Mouse-Shortcut-
+# Mouse-Shortcut Using AutoHotKey-
 This is a Mouse shortcut script to add extra functionality to your mouse. 
 
 There is multiple file, file name should suggest the functionality of the file. 
